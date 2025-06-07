@@ -2,6 +2,8 @@
 
 OSINT / Threat Intel CLI tool.
 
+[Читать по-русски](README_RU.md)
+
 [![PyPI](https://img.shields.io/pypi/v/harpoon)](https://pypi.org/project/harpoon/) [![PyPI - Downloads](https://img.shields.io/pypi/dm/harpoon)](https://pypistats.org/packages/harpoon) [![PyPI - License](https://img.shields.io/pypi/l/harpoon)](LICENSE) [![GitHub issues](https://img.shields.io/github/issues/te-k/harpoon)](https://github.com/Te-k/harpoon/issues)
 
 <img src="logo.png" width="100" height="100">

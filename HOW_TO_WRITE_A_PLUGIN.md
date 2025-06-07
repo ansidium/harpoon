@@ -1,5 +1,7 @@
 # How to write plugins
 
+[Русская версия](HOW_TO_WRITE_A_PLUGIN_RU.md)
+
 ## Define the library
 
 In the `/lib` subfolder you will find the librairies necessary to make your
